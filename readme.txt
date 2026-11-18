@@ -14,7 +14,7 @@ Usou-se as bibliotecas 'rich' para deixar o console mais agradável visualmente 
 
 Para usar o projeto basta ter o python instalado na máquina e, a partir disso, executar no console: 
 
-pip install -r requirements.txt 
+pip install rich
 
 E pronto, já será suficiente. 
 
